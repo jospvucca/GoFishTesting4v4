@@ -1,0 +1,6 @@
+cd C:/Users/Josip/GoFishTesting4v4/Builds 
+git init
+git add .
+git commit -m ""
+git remote add origin https://github.com/jospvucca/GoFish4.git  
+git push -f origin master  
